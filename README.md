@@ -15,7 +15,7 @@
 | TBD  | TBD    | Developer |
 | TBD  | TBD    | Developer |
 | TBD  | TBD    | Developer |
-| Yuxuan  | Yuxuanwwang@outlool.com    | Support TA |
+| Yuxuan  | yuxuanwwang@outlook.com    | Support TA |
 
 ---
 
